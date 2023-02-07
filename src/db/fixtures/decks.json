@@ -1,0 +1,42 @@
+[
+  {
+    "deck_name": "Rendering in React",
+    "deck_description": "React's component structure allows for quickly building a complex web application that relies on DOM manipulation. "
+  },
+  {
+    "deck_name": "React Router",
+    "deck_description": "React Router is a collection of navigational components that compose declaratively with your application."
+  },
+  {
+    "deck_name": "New deck for testing",
+    "deck_description": "New deck description for testing"
+  },
+  {
+    "deck_name": "New deck for testing",
+    "deck_description": "New deck description for testing"
+  },
+  {
+    "deck_name": "New deck for testing",
+    "deck_description": "New deck description for testing"
+  },
+  {
+    "deck_name": "New deck for testing",
+    "deck_description": "New deck description for testing"
+  },
+  {
+    "deck_name": "New deck for testing",
+    "deck_description": "New deck description for testing"
+  },
+  {
+    "deck_name": "New deck for testing",
+    "deck_description": "New deck description for testing"
+  },
+  {
+    "deck_name": "New deck for testing",
+    "deck_description": "New deck description for testing"
+  },
+  {
+    "deck_name": "New deck for testing",
+    "deck_description": "New deck description for testing"
+  }
+]

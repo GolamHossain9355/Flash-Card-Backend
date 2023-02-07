@@ -1,0 +1,67 @@
+[
+  {
+    "card_front": "Differentiate between Real DOM and Virtual DOM.",
+    "card_back": "Virtual DOM updates are faster but do not directly update the HTML",
+    "deck_id": 1
+  },
+  {
+    "card_front": "How do you modify the state of a different React component?",
+    "card_back": "Not at all! State is visible to the component only.",
+    "deck_id": 1
+  },
+  {
+    "card_front": "How do you pass data 'down' to a React child component?",
+    "card_back": "As properties or props",
+    "deck_id": 1
+  },
+  {
+    "card_front": "What path will match the follow Route?\n<Route>\n  <NotFound />\n</Route>",
+    "card_back": "All paths. A route with no path matches all URL's",
+    "deck_id": 2
+  },
+  {
+    "card_front": "What does <Switch> do?",
+    "card_back": "Renders the first matching child <Route> ",
+    "deck_id": 2
+  },
+  {
+    "card_front": "Front This is the new for testing duplicate seeding",
+    "card_back": "Back this is the new for testing duplicate seeding",
+    "deck_id": 3
+  },
+  {
+    "card_front": "Front This is the new for testing duplicate seeding",
+    "card_back": "Back this is the new for testing duplicate seeding",
+    "deck_id": 4
+  },
+  {
+    "card_front": "Front This is the new for testing duplicate seeding",
+    "card_back": "Back this is the new for testing duplicate seeding",
+    "deck_id": 5
+  },
+  {
+    "card_front": "Front This is the new for testing duplicate seeding",
+    "card_back": "Back this is the new for testing duplicate seeding",
+    "deck_id": 6
+  },
+  {
+    "card_front": "Front This is the new for testing duplicate seeding",
+    "card_back": "Back this is the new for testing duplicate seeding",
+    "deck_id": 7
+  },
+  {
+    "card_front": "Front This is the new for testing duplicate seeding",
+    "card_back": "Back this is the new for testing duplicate seeding",
+    "deck_id": 8
+  },
+  {
+    "card_front": "Front This is the new for testing duplicate seeding",
+    "card_back": "Back this is the new for testing duplicate seeding",
+    "deck_id": 9
+  },
+  {
+    "card_front": "Front This is the new for testing duplicate seeding",
+    "card_back": "Back this is the new for testing duplicate seeding",
+    "deck_id": 10
+  }
+]
